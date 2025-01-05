@@ -52,7 +52,7 @@ Este dashboard foi criado para fornecer uma visão abrangente da saúde financei
 
 ## Arquivo .pbix
 
-O arquivo `dashboard_analise_financeira.pbix` contém o projeto completo do Power BI.
+O arquivo `Dashboard de Análise Financeira.pbix` contém o projeto completo do Power BI.
 
 ## Como visualizar
 
